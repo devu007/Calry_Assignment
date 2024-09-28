@@ -1,0 +1,18 @@
+[
+  {
+    "id": "fd5e8b0e-2e97-4335-bae2-8aacff55d292",
+    "guestName": "John Doe",
+    "roomNumber": 101,
+    "requestDetails": "Need extra towels",
+    "priority": 1,
+    "status": "received"
+  },
+  {
+    "id": "264e11a7-9052-4839-ae1c-62194b187f72",
+    "guestName": "John Doe",
+    "roomNumber": 101,
+    "requestDetails": "Need extra towels",
+    "priority": 1,
+    "status": "received"
+  }
+]

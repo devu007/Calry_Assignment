@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true, // Enable ES module interop
+      "allowSyntheticDefaultImports": true, // Allow default imports from modules with `export =`
+      "types": ["node", "express", "fs-extra", "body-parser", "uuid"]
+    },
+    "include": ["./**/*.ts"],
+    "exclude": ["node_modules"]
+  }
+  
